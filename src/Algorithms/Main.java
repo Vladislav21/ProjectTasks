@@ -18,7 +18,7 @@ public class Main {
         List<Spectra> spectraListResult = computing.compute(spectraList,nameFunction);
 
         System.out.println("Primary list of spectra:\n"+spectraList);
-        System.out.println("Result list os spectra:\n"+spectraListResult);
+        System.out.println("Result list of spectra:\n"+spectraListResult);
 
     }
 }
